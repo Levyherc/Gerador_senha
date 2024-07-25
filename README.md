@@ -1,4 +1,5 @@
 <h1 align="left">Gerador de Senhas</h1>
+<img src="https://github.com/Levyherc/Gerador_senha/blob/main/Gerador-de-senhas.png"/>
 
 ###
 
