@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Sobre o Projeto
 - Desing
 - HTML semântico
 - Eventos
 - API do navegador
 - JavaScript nativo (vanilla)
+=======
+Sobre o Projeto
+- Desing
+- HTML semântico
+- Eventos
+- API do navegador
+- JavaScript nativo (vanilla)
+>>>>>>> 4156cdfb64363c38bf6f4592f9a3abd880dcb03b
 - Extensão VSCode
